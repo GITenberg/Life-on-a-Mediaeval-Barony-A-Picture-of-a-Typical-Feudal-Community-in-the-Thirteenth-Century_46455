@@ -1,9 +1,8 @@
 _repo: Life-on-a-Mediaeval-Barony-A-Picture-of-a-Typical-Feudal-Community-in-the-Thirteenth-Century_46455
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46455/46455-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46455-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, William Stearns
@@ -13,6 +12,8 @@ creator:
     gutenberg_agent_id: '1557'
     url: http://www.gutenberg.org/2009/agents/1557
 description: A picture of a typical feudal community in the thirteenth century.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46455#Life-on-a-Mediaeval-Barony-A-Picture-of-a-Typical-Feudal-Community-in-the-Thirteenth-Century
 gutenberg_issued: '2014-07-30'
 gutenberg_type: Text
 identifiers:
